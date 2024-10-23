@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer<br>Back End Developer<br>Front End Developer<br>Full Stack Developer
+ 👋Hi there! I’m NanoTech, <br>a passionate Software Developer and Data Scientist based in the UAE. I love creating innovative solutions in both back-end and front-end development, as well as mobile applications.<br>🌱 Currently, I’m focusing on enhancing my skills in back-end and front-end technologies, as well as mobile app development.<br>💻 My primary technologies include:<br><br>Languages: PHP, JavaScript, Dart<br>Frameworks: Laravel, CodeIgniter<br>🔭 I’m particularly interested in exploring machine learning and web development, and I’m always open to collaborating on exciting projects!<br><br>📫 Feel free to reach out via admin@tamauzeds.com. Let’s connect!<br><br>🚀 Check out my repositories below to see some of my work!
 
 
 # 💻 Tech Stack:
